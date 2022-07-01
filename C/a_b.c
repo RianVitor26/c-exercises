@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int dobrarTriplicar(int a, int b){
+int equacao(int a, int b){
   int result;
   result = (a*2) + (b*3);
     return result;
@@ -13,7 +13,7 @@ int main (void){
   printf("insira o valor de b: ");
   scanf("%i", &b);
 
-  soma = dobrarTriplicar(a,b);
+  soma = fd(a,b);
   printf("%i", soma);
 
   return 0;
