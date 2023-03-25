@@ -1,3 +1,3 @@
-# Faculdade de engenharia de software
->Repositório criado somente para atividades da faculdade
+# Exercícios em C
+>Matéria de cálculo dinâmico em C
 
